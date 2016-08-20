@@ -6,7 +6,7 @@ var fontfamily = 'arial,sans-serif'; // font for content
 var tSpeed=3;                        // scroll speed (1 = slow, 5 = fast)
 
 // enter your ticker content here (use \/ and \' in place of / and ' respectively)
-var content='Take a look here to go to index<a href="https://caneslms83.github.io/website/">Index<\/a>?';
+var content='Take a look here to go to index<a href="https://caneslms83.github.io/website/"> Index<\/a>';
 
 // Simple Marquee / Ticker Script
 // copyright 3rd January 2006, Stephen Chapman
